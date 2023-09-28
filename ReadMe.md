@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisaydogdu&label=Profile%20views&color=0e4db4&style=flat-square" alt="barisaydogdu" /> </p>
 
-- 🔭 I’m currently working on [Network Test Autamation](https://github.com/barisaydogdu/NetWorkAutomationGuestLogin)
+- 🔭 I’m currently working on [Network Test Automation](https://github.com/barisaydogdu/NetWorkAutomationGuestLogin)
 
 - 🌱 I’m currently learning **Java,Spring**
 
