@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Startup Bridge](https://github.com/barisaydogdu/NetWorkAutomationGuestLogin)
 
-- 🌱 I’m currently learning **Go ** ![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+- 🌱 I’m currently learning **Go **
 
 - 💬 Ask me about **Java,Spring**
 
