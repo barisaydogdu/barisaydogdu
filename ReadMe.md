@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisaydogdu&label=Profile%20views&color=0e4db4&style=flat-square" alt="barisaydogdu" /> </p>
 
-- 🔭 I’m currently working on [Network Test Automation](https://github.com/barisaydogdu/NetWorkAutomationGuestLogin)
+- 🔭 I’m currently working on [Startup Bridge](https://github.com/barisaydogdu/NetWorkAutomationGuestLogin)
 
-- 🌱 I’m currently learning **Java,Spring**
+- 🌱 I’m currently learning **Go ** ![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg)
 
-- 💬 Ask me about **.Net Core**
+- 💬 Ask me about **Java,Spring**
 
 - 📫 How to reach me **barisaydogdu3@gmail.com**
 
